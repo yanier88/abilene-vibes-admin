@@ -1,0 +1,28 @@
+{
+  "target": "admin-only",
+  "sourceModules": [
+    "admin.html",
+    "src/admin-main.jsx",
+    "src/admin/AdminBase.css",
+    "src/admin/AdminReports.css",
+    "src/admin/AdminReports.jsx",
+    "src/admin/AdminShell.jsx",
+    "src/auth/adminModeration.mjs",
+    "src/auth/adminModuleReads.mjs",
+    "src/auth/adminWebSession.mjs",
+    "src/components/AdminCardMedia.jsx",
+    "src/components/AdminMarketplacePage.jsx",
+    "src/components/AdminOwnershipClaims.jsx",
+    "src/components/AdminWorkspace.css",
+    "src/components/AdminWorkspace.jsx",
+    "src/components/EventFields.jsx",
+    "src/components/PasswordField.jsx",
+    "src/components/adminDashboard.mjs",
+    "src/components/adminMarketplace.mjs",
+    "src/components/adminPresentation.mjs",
+    "src/components/premiumEvents.mjs",
+    "src/index.css",
+    "src/ugc/reportContract.mjs"
+  ],
+  "forbiddenRuntimeAbsent": true
+}

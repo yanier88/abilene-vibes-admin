@@ -7,6 +7,7 @@
     "src/admin/AdminReports.css",
     "src/admin/AdminReports.jsx",
     "src/admin/AdminShell.jsx",
+    "src/admin/reportPresentation.mjs",
     "src/auth/adminModeration.mjs",
     "src/auth/adminModuleReads.mjs",
     "src/auth/adminWebSession.mjs",
